@@ -1,0 +1,9 @@
+[package]
+name = "aide-core"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+hkdf = "0.12"
+sha2 = "0.10"
+
